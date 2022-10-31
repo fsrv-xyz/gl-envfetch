@@ -1,0 +1,12 @@
+builds:
+  - binary: gl-envfetch
+    goos:
+      - linux
+      - freebsd
+      - darwin
+    goarch:
+      - amd64
+      - arm64
+    dir: .
+    env:
+      - CGO_ENABLED=0
