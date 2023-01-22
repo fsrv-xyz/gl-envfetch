@@ -3,7 +3,7 @@ module github.com/fsrv-xyz/gl-envfetch
 go 1.19
 
 require (
-	github.com/fatih/color v1.13.0
+	github.com/fatih/color v1.14.0
 	github.com/xanzy/go-gitlab v0.78.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
