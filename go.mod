@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/fatih/color v1.14.1
-	github.com/xanzy/go-gitlab v0.79.0
+	github.com/xanzy/go-gitlab v0.79.1
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 )
 
