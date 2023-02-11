@@ -9,9 +9,9 @@ import (
 	"os/exec"
 	"strings"
 
+	"github.com/alecthomas/kingpin/v2"
 	"github.com/fatih/color"
 	"github.com/xanzy/go-gitlab"
-	"gopkg.in/alecthomas/kingpin.v2"
 )
 
 func askForConfirmation(s string) bool {
