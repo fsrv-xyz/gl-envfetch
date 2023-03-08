@@ -3,7 +3,7 @@ module github.com/fsrv-xyz/gl-envfetch
 go 1.19
 
 require (
-	github.com/alecthomas/kingpin/v2 v2.3.1
+	github.com/alecthomas/kingpin/v2 v2.3.2
 	github.com/fatih/color v1.14.1
 	github.com/xanzy/go-gitlab v0.80.3
 )
@@ -16,7 +16,7 @@ require (
 	github.com/hashicorp/go-retryablehttp v0.7.1 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.17 // indirect
-	github.com/xhit/go-str2duration v1.2.0 // indirect
+	github.com/xhit/go-str2duration/v2 v2.1.0 // indirect
 	golang.org/x/net v0.4.0 // indirect
 	golang.org/x/oauth2 v0.3.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
