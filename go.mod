@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/alecthomas/kingpin/v2 v2.3.2
 	github.com/fatih/color v1.15.0
-	github.com/xanzy/go-gitlab v0.83.0
+	github.com/xanzy/go-gitlab v0.84.0
 )
 
 require (
